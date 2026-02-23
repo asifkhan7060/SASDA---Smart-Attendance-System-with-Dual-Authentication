@@ -1,0 +1,15 @@
+pillow
+tkinter
+mysql-connector-python
+opencv-python
+numpy
+dlib --config-settings=cmake.build-type=Release --use-pep517
+dlib
+face-recognition
+speechbrain
+torch
+torchaudio
+sounddevice
+soundfile
+
+

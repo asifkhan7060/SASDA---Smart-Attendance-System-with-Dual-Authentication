@@ -1,0 +1,9 @@
+pillow
+tkinter
+mysql-connector-python
+opencv-python
+numpy
+torch
+torchaudio
+sounddevice
+soundfile
