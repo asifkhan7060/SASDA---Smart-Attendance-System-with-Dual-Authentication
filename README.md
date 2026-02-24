@@ -2,6 +2,9 @@
 
 A smart attendance management system that uses Face Recognition and Voice Recognition to automatically identify students and mark attendance with high accuracy and security. The system uses dual biometric authentication to prevent proxy attendance and manual errors.
 
+# Demo Video :
+Demo: https://go.screenpal.com/watch/cTf1XMnjVzM
+
 # Resources (PPT, PDF, etc) :
 
 https://drive.google.com/drive/folders/13ekE8pB63vHiq03IkmAmF7iOfmAm5W_J?usp=drive_link
